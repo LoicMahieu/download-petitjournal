@@ -1,0 +1,2 @@
+
+./node_modules/ffmpeg-bin/bin/darwin/ffmpeg -i $1  -c copy -bsf:a aac_adtstoasc $2
