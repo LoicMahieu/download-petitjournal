@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "ffmpeg-bin": "^0.0.1",
-    "m3u8": "^0.0.6",
-    "phantomjs": "^1.9.17",
+    "m3u8": "^0.0.7",
+    "phantomjs": "^2.1.7",
     "request": "^2.57.0"
   }
 }
